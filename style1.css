@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1 {
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ font-style: oblique;
+ font-size: 100px;
+ margin-left:360px;
+ margin-top: 50px;
+}
+#changeText{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  color: deeppink;
+  font-style: italic;
+}
